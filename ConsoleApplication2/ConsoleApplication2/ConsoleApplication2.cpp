@@ -26,7 +26,6 @@ int main()
         c = false;
     else
         c = true;
-    c = false;
     if (c == false)
         std::cout << "ХАХАХАХАХа";
     if (c == 9)
