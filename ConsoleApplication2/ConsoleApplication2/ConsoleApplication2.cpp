@@ -11,7 +11,7 @@ int ppp()
 {
     int pom;
     std::cin >> pom;
-    if (pom = 3)
+    if (pom == 3)
         std::cout << "Не два =!";
     else
         std::cout << "УВЫ";
