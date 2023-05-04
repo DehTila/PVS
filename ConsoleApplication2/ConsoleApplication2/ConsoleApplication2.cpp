@@ -7,11 +7,6 @@ int blin1(int a, int b)
     int c = a + b;
     return c;
 }
-int blin2(int a, int b)
-{
-    int c = a + b;
-    return c;
-}
 int ppp()
 {
     int pom;
