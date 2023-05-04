@@ -16,13 +16,6 @@ int ppp()
     else
         std::cout << "УВЫ";
 }
-int pop()
-{
-    if (1 > 0)
-        std::cout << "Опа";
-    else
-        std::cout << "Опана";
-}
 int main()
 {
     int a, b;
