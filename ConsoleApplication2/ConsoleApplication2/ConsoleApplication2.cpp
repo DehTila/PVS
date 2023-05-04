@@ -28,6 +28,6 @@ int main()
         c = true;
     if (c == false)
         std::cout << "ХАХАХАХАХа";
-    if (c == 9)
+    if (c == true)
         std::cout << "АХАХАХХАХА";
 }
